@@ -12,7 +12,7 @@ I’m a passionate Computer Science student at McMaster University, focusing on 
 - **Weather App:** A sleek, responsive app providing real-time weather updates tailored to user preferences.
 - **Reddit Clone:** A community platform with user authentication, real-time updates, and a modern design.
 - **Crypto AI Chatbot:** An AI chatbot delivering real-time crypto data with a focus on user engagement.
-- **E-commerce Platform:** A comprehensive online store with secure user authentication and a dynamic user interface.
+- **Project Management System:** Comprehensive project management system with a full-stack implementation using Spring Boot for the backend and React for the front end.
 
 ## 🔍 What I’m Looking For
 
