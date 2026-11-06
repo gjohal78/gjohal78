@@ -21,8 +21,8 @@ I build **secure, well-tested software**, and I'm focused on the systems that ke
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ics-security-lab](https://github.com/gjohal78/ics-security-lab)** 🚧 | Simulated plant control system: a virtual PLC running a tank and pump, Modbus attacks, Suricata/Zeek detection, and network zones for defence in depth | OpenPLC · Modbus/TCP · Suricata · Zeek · Docker · Python |
-| **[reactor-monitor](https://github.com/gjohal78/reactor-monitor)** 🚧 | Real-time reactor monitoring dashboard (educational model): live telemetry, alarm state machine, SCRAM, role-based access and an audit log | React · TypeScript · FastAPI · PostgreSQL · WebSockets |
+| **ICS Security Lab** 🚧 | Simulated plant control system: a virtual PLC running a tank and pump, Modbus attacks, Suricata/Zeek detection, and network zones for defence in depth | OpenPLC · Modbus/TCP · Suricata · Zeek · Docker · Python |
+| **Reactor Monitor** 🚧 | Real-time reactor monitoring dashboard (educational model): live telemetry, alarm state machine, SCRAM, role-based access and an audit log | React · TypeScript · FastAPI · PostgreSQL · WebSockets |
 | **Vestia – Smart Fitting Room Platform** | In-store kiosk and staff dashboard on **14 AWS Lambda functions**. Led QA against the live deployment: **20/20** recommendation-engine tests passed, P95 latency validated on a **44,446-item** catalog | AWS Lambda · API Gateway · DynamoDB · S3 · Node.js |
 | **Focus – Habit Tracking App** | iOS app serving **100+ daily users**, with real-time sync and Apple HealthKit integration; **+15%** retention after beta testing with 50+ users | Swift · Firebase · Cloud Functions |
 
